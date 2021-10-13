@@ -1,14 +1,10 @@
 <?php
 
 class Bicycle {
-
     
 private string $color;
-
 private int $currentSpeed;
-
 private int $nbSeats;
-
 private int $nbWheels;
 
 public function __construct(string $color)

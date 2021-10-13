@@ -1,6 +1,7 @@
 <?php
 
 class Car {
+    
     private int $nbWheels;
     private int $currentSpeed;
     private string $color;
